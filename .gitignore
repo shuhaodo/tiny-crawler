@@ -1,0 +1,7 @@
+/target
+/output
+/input
+/debug
+**/*.rs.bk
+*.pdb
+.DS_Store
